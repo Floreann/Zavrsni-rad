@@ -318,7 +318,7 @@
     width: 90%;
     display: block;
     border-bottom: 0.3rem solid transparent;
-    transition: all 0.3s;
+    transition: all 0.9s;
     outline: none;
     margin-bottom: 25px;
   }
